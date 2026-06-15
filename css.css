@@ -1,7 +1,7 @@
 p {
-    color: snow;
+    color: cyan;
     width: 100%;
-    text-align: left;
+    text-align: center;
 }
 
 p.bold-text {
@@ -9,7 +9,6 @@ p.bold-text {
 }
 
 body {
-    background-image: url('image.jpg');
     background-size: cover;
     font-family: Arial, sans-serif;
     margin: 0;
